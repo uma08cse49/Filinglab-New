@@ -8,12 +8,12 @@ import PricingShape2Image from "../../../assets/images/shape/pricing-shape2.png"
 import PricingShape3Image from "../../../assets/images/shape/pricing-shape3.png";
 import Ellipse1Image from "../../../assets/images/shape/ellipse1.png";
 import Ellipse2Image from "../../../assets/images/shape/ellipse2.png";
-import imageleft1 from "../../../assets/images/segments/left/image-1.PNG";
-import imageleft2 from "../../../assets/images/segments/left/price.PNG";
-import imageleft3 from "../../../assets/images/segments/left/image-3.PNG";
-import imageright1 from "../../../assets/images/segments/right/google.PNG";
+import imageleft1 from "../../../assets/images/segments/left/image-1.png";
+import imageleft2 from "../../../assets/images/segments/left/price.png";
+import imageleft3 from "../../../assets/images/segments/left/image-3.png";
+import imageright1 from "../../../assets/images/segments/right/google.png";
 import imageright2 from "../../../assets/images/segments/right/clock1.png";
-import imageright3 from "../../../assets/images/segments/right/compilance.PNG";
+import imageright3 from "../../../assets/images/segments/right/compilance.png";
 // import middle from "../../../assets/images/segments/middle/large-image.PNG";
 import middle from "../../../assets/images/segments/middle/img31.png";
 
